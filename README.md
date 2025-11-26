@@ -15,21 +15,13 @@
 </p>
 
 ## Tareas
-<!-- ### 1. [Tema 1](./Tema1/)
-  - 1.1 [Tarea-1](./Tema1/Tarea-1/)
-    - 1.1.1 [Ejercicios-Sueltos](./Tema1/Tarea-1/Ejercicios-Sueltos/)
-    - 1.1.2 [Ejercicios1B](./Tema1/Tarea-1/Ejercicios1B/)
-    - 1.1.3 [Programa-Completo](./Tema1/Tarea-1/Programa-Completo/)
-  - 1.2 [Tarea-2](./Tema1/Tarea-2/)
-    - 1.2.1 [Ejercicios-Sueltos](./Tema1/Tarea-2/Ejercicios-Sueltos/)
-    - 1.2.2 [Ejercicios2B](./Tema1/Tarea-2/Ejercicios2B/)
-    - 1.2.3 [Programa-Completo](./Tema1/Tarea-2/Programa-Completo/)
-  - 1.3 [Tarea-3](./Tema1/Tarea-3/) -->
+### 1. [RA03](./RA03/)
+  - 1.1 [PR1-1](./RA03/PR1-RA03/)
 
-<!-- ### 2. [Tema 2](./Tema2/)
-  - 2.1 [BoletinFunciones1](./Tema2/BoletinFunciones1/)
-  - 2.2 [BoletinFunciones2](./Tema2/BoletinFunciones2/)
-  - 2.3 [BoletinFuncionesAvanzado](./Tema2/BoletinFuncionesAvanzado/) -->
+
+### 2. [RA04](./RA04/)
+  - 2.1 [PR1-RA04](./RA04/PR1-RA04/)
+  - 2.2 [PR2-RA04](./RA04/PR2-RA04/)
 
 
 ## Referencias
