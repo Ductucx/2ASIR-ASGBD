@@ -9,7 +9,7 @@
 
 ## Preparativos
 
-Para hacereste ejercicio tendremos que crear un trigger para auditar todos los cambios de la tabla `t_paciente` . Como estamos utilizando una tabla perteneciente a la "db" de **Hospital**, tendremos que seguir los procedimientos con un usuario administrador de esa "db", y no con el usuario `sys` .
+Para hacer este ejercicio tendremos que crear un trigger para auditar todos los cambios de la tabla `t_paciente` . Como estamos utilizando una tabla perteneciente a la "db" de **Hospital**, tendremos que seguir los procedimientos con un usuario administrador de esa "db", y no con el usuario `sys` .
 
 Por ello crearemos `admin_hospital` de la siguiente manera:
 
