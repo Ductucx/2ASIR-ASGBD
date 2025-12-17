@@ -246,7 +246,7 @@ SELECT *
 FROM v_t_empleado;
 ```
 
-## Comprobaciones (Ejercicio 3)
+### Comprobaciones (Ejercicio 3)
 
 Para poder comprobar el correcto funcionamiento del Trigger, tendremos que cambiar la fecha al insertar los datos de nuestra comprobación:
 
