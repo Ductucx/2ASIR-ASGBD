@@ -25,7 +25,7 @@
   - 2.3 [PR3-RA04](./RA04/PR3-RA04/)
 
 ### 3. [RA06](./RA06/)
-  - 2.1 [BD Distribuida](./RA06/BD_Distribuida/)
+  - 3.1 [BD Distribuida](./RA06/BD_Distribuida/)
 
 
 ## Referencias
